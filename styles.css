@@ -5,7 +5,8 @@ body {
 }
 
 h1 {
-    color: darkblue;
+    color: black;
+    font-family: 'Poppins', sans-serif;
 }
 
 button {
